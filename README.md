@@ -170,16 +170,6 @@ jupyter notebook TelecomX_LATAM.ipynb
 - Código documentado y modular
 - Resultados consistentes en múltiples ejecuciones
 
-## 👨‍💻 Autor
-
-**Diego Dev**  
-- 📧 Email: [tu-email@ejemplo.com]
-- 💼 LinkedIn: [tu-perfil-linkedin]
-- 🐱 GitHub: [tu-usuario-github]
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md] para detalles.
 
 ## 🤝 Contribuciones
 
@@ -194,3 +184,4 @@ Las contribuciones son bienvenidas. Por favor:
 ---
 
 ⭐ **¡Si este proyecto te fue útil, no olvides darle una estrella!** ⭐
+
